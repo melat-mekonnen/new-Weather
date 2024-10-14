@@ -62,9 +62,10 @@ main{
     padding:30px 0;
 }
 .weather-app-icon{
-    margin-top:23px;
-    font-size:44px;
-    margin-right: 10px;
+    margin-top:10px;
+    font-size:48px;
+    line-height: 44px;
+    margin-right: 8px;
 
 }
 .weather-app-measure{
